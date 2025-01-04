@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+.info-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.card-header {
+    padding: 15px;
+    background-color: #518cbb;
+    color: #fff;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.card-body {
+    display: none;
+    padding: 15px;
+    background-color: #b5dce9;
+    color: #333;
+}
